@@ -31,6 +31,7 @@ Pillow (Required for handling image uploads using Django ImageField)
 
 Project Structure
 
+```text
 fullstack1405/
 │
 ├── manage.py
@@ -52,6 +53,7 @@ fullstack1405/
 ├── templates/
 ├── static/
 └── media/
+```
 
 Database Models
 
