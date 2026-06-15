@@ -29,7 +29,7 @@ Database
 Additional Libraries
 Pillow (Required for handling image uploads using Django ImageField)
 
-## Project Structure
+Project Structure
 
 fullstack1405/
 │
@@ -55,8 +55,7 @@ fullstack1405/
 
 Database Models
 
-##Userinfo
-
+Userinfo
 Stores user account details.
 
 | Field    | Type      |
@@ -64,8 +63,7 @@ Stores user account details.
 | email    | CharField |
 | password | CharField |
 
-### Doctorinfo
-
+Doctorinfo
 Stores doctor information.
 
 | Field          | Type       |
@@ -74,8 +72,7 @@ Stores doctor information.
 | doc_img        | ImageField |
 | specialization | CharField  |
 
-### Register
-
+Register
 Stores appointment details.
 
 | Field            | Type      |
@@ -85,7 +82,7 @@ Stores appointment details.
 | appointment_date | DateField |
 | reason           | TextField |
 
-## Installation Guide
+Installation Guide
 
 1. Clone the Repository
 
